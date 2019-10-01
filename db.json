@@ -39,7 +39,7 @@
       },
       "id": 6
     }
-    
+    ]
   "perfis": [
     {
       "nome": "Administrador",
@@ -51,7 +51,7 @@
       "dtCadastro": "20/8/2019",
       "id": 2
     }
-    
+    ],
   "permissoes": [
     {
       "id": 1,
@@ -83,6 +83,7 @@
       "controle": "Perfil",
       "valor": false
     }
+    ],
   "categorias": [
     {
       "id": 1,
